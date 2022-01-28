@@ -1,4 +1,4 @@
-# revision
+# Kennedy
 
 ## Maximal Palindrome
 ```
