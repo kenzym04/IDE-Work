@@ -1,6 +1,6 @@
 public class Solution {
 
-public boolean exist(char[][] board, String word) {
+public boolean findWord(char[][] board, String word) {
     int m = board.length;
     int n = board[0].length;
  
