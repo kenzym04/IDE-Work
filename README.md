@@ -1,4 +1,4 @@
-# Kennedy
+# Refreshment
 
 ## Maximal Palindrome
 ```
